@@ -1,4 +1,4 @@
-<img algin="right" src="https://github.com/NikitaKarmakarP/NikitaKarmakarP/blob/main/Github%20Banner.png" />
+logo(https://github.com/NikitaKarmakarP/NikitaKarmakarP/blob/main/Github%20Banner.png)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <h1 align="center">
