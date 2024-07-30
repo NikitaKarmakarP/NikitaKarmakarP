@@ -1,9 +1,16 @@
 ![logo](https://github.com/NikitaKarmakarP/NikitaKarmakarP/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Nikita Karmakar</h1>
+/*<h1 align="center">Hi 👋, I'm Nikita Karmakar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakarmakarp&label=Profile%20views&color=0e75b6&style=flat" alt="nikitakarmakarp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakarmakarp&label=Profile%20views&color=0e75b6&style=flat" alt="nikitakarmakarp" /> </p>*/
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nikita+Karmakar!;" />
+</h1>
+<h3 align="center">A passionate software developer from India</h3>
+<br/>
 
 - 🌱 I’m currently learning *React, Native*
 
