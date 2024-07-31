@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Nikita Karmakar</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">.I am a passionate Web Developer with expertise in crafting high-quality, responsive, and user-friendly websites and applications. My skill set encompasses both front-end and back-end development, ensuring a seamless and efficient user experience. I am always eager to learn new technologies and improve my coding skills.Coding is my passion.I love to doing coading and web development.</h3>
 
 <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="450px" align="right" alt="">
 
