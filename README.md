@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nikita Karmakar</h1>
 <h3 align="center">I am a third year CSE student of Netaji Subhash Engineering College.I am a passionate Web Developer💻with expertise in crafting high-quality, responsive, and user-friendly websites and applications. My skill set encompasses both front-end and back-end development, ensuring a seamless and efficient user experience. I am always eager to learn new technologies and improve my coding skills.Coding is my passion.I love to doing coading and web development.I am eagar about to gain new knowladge and explore new things.Stay connect with me.</h3>
 
-<img src="https://img1.picmix.com/output/stamp/normal/7/9/9/5/2335997_2f709.gif" align="right" alt="">
+<img src="https://media.baamboozle.com/uploads/images/236413/1661395646_37473_gif-url.gif" align="right" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakarmakarp&label=Profile%20views&color=0e75b6&style=flat" alt="nikitakarmakarp" /> </p>
 
