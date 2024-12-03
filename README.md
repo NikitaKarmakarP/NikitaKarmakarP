@@ -61,4 +61,5 @@
 </div>
 <br/>
 
+![NikitaKarmakarP activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NikitaKarmakarP&theme=github-compact)
 <br/><br/>
