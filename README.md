@@ -1,4 +1,18 @@
-![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/nikitakarmakar2004?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+<br/>
+
 <h1 align="center">Hi 👋, I'm Nikita Karmakar</h1>
 <h3 align="center">I am a third year CSE student of Netaji Subhash Engineering College.I am a passionate Web Developer💻with expertise in crafting high-quality, responsive, and user-friendly websites and applications. My skill set encompasses both front-end and back-end development, ensuring a seamless and efficient user experience. I am always eager to learn new technologies and improve my coding skills.Coding is my passion.I love to doing coading and web development.I am eagar about to gain new knowladge and explore new things.Stay connect with me.</h3>
 
@@ -38,20 +52,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitakarmakarp" alt="nikitakarmakarp" /></a> </p>
 
-<h2 align="center">Leetcode Info<h2>  
-<p align="center">
-  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="jyot" height="200" width="200" /></a>
-</p>
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/nikitakarmakar2004?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
-<br/>
+
 <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <div align=center>
