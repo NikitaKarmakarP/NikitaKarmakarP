@@ -26,7 +26,7 @@ I am a third year **CSE** student of Netaji Subhash Engineering College.I am a p
 
 
 
-- 🌱 I’m currently learning **DSA,Python,JS,java,Computer fundamental**
+- 🌱 I’m currently learning **DSA,Python,React JS,java,Computer fundamental**
 
 - 💬 Ask me about **Node js, Django**
 
