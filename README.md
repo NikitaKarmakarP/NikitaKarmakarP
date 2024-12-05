@@ -34,11 +34,16 @@ Hello there! 👋I’m passionate about **learning, building, and sharing**. Eve
 - 🌱 Continuous learning and **self-improvement**
 - 🤝 Building solutions that make a difference
 
-**🚀 What I Do**
+**🚀 What I Do:**
 
 - 🌱 Currently exploring the realms of **software development, data structures, and algorithms**.
 - 🎉 Proud contributor to **Google Summer of Code '24 (GSSoC)**, where I get to bring impactful 
     ideas to life.
+
+**🔥 What Drives Me:**
+- ✨ I find joy in transforming complex problems into elegant solutions.
+- 👩‍💻 I thrive on learning new technologies and applying them creatively.
+- 🔥 I believe in sharing knowledge and giving back to the tech community.
 
 **📌 Interests**
 
