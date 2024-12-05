@@ -19,12 +19,10 @@
 <!--<h1 align="center">Hi 👋, I'm Nikita Karmakar</h1>-->
 
 **🌟 Welcome to My GitHub! 🌟**
-Hello there! 👋
 
-I’m passionate about **learning, building, and sharing**. Every project here reflects creativity and problem-solving. 🚀
+Hello there! 👋I’m passionate about **learning, building, and sharing**. Every project here reflects creativity and problem-solving. 🚀
 
 **🔧 What You'll Find Here:**
-
 🚀 Innovative projects that solve real-world problems
 💡 Creative solutions blending logic and design
 🌍 Open-source contributions that foster collaboration
