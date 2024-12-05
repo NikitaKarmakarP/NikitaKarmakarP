@@ -20,9 +20,9 @@
 
 **🌟 Welcome to My GitHub! 🌟**
 
-Hello there! 👋I’m passionate about **learning, building, and sharing**. Every project here reflects creativity and problem-solving. 🚀
-
 # 💫 About Me:
+
+Hello there! 👋I’m passionate about **learning, building, and sharing**. Every project here reflects creativity and problem-solving. 🚀
 
 **🔧 What You'll Find Here:**
 
