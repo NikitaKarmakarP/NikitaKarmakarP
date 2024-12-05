@@ -56,7 +56,7 @@ Hello there! 👋I’m passionate about **learning, building, and sharing**. Eve
 - 🔥 Exploring new **technologies, frameworks, and concepts**
 - 💬 Open to collaboration and feedback to grow together
 
-**Thank you for visiting! Feel free to explore, star ⭐, fork 🍴, or connect. Let’s innovate together! 🌈**
+**Thank you for visiting! Feel free to explore, star ⭐, fork my projects!🍴, or connect with me 😊. Let’s innovate together! 🌈**
 
 <img src="https://img1.picmix.com/output/stamp/normal/7/9/9/5/2335997_2f709.gif" align="right" alt="">
 
