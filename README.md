@@ -23,9 +23,10 @@
 Hello there! 👋I’m passionate about **learning, building, and sharing**. Every project here reflects creativity and problem-solving. 🚀
 
 **🔧 What You'll Find Here:**
-🚀 Innovative projects that solve real-world problems
-💡 Creative solutions blending logic and design
-🌍 Open-source contributions that foster collaboration
+
+- 🚀 Innovative projects that solve real-world problems
+- 💡 Creative solutions blending logic and design
+- 🌍 Open-source contributions that foster collaboration
 
 **💭 Why I Code:**
 
