@@ -30,9 +30,9 @@ Hello there! 👋I’m passionate about **learning, building, and sharing**. Eve
 
 **💭 Why I Code:**
 
-- ✨ Turning ideas into reality, one line at a time
+- ✨ Turning ideas into **reality, one line at a time**
 - 🌱 Continuous learning and **self-improvement**
-- 🤝 Building solutions that make a difference
+- 🤝 Building **solutions that make a difference**
 
 **🚀 What I Do:**
 
@@ -41,15 +41,15 @@ Hello there! 👋I’m passionate about **learning, building, and sharing**. Eve
     ideas to life.
 
 **🔥 What Drives Me:**
-- ✨ I find joy in transforming complex problems into elegant solutions.
-- 👩‍💻 I thrive on learning new technologies and applying them creatively.
-- 🔥 I believe in sharing knowledge and giving back to the tech community.
+- ✨ I find joy in **transforming complex problems into elegant solutions.**
+- 👩‍💻 I thrive on **learning new technologies and applying them creatively.**
+- 🔥 I believe in **sharing knowledge and giving back to the tech community.**
 
 **📌 Interests**
 
-- 👩‍💻 Coding enthusiast with an interest in backend development and system design.
-- 🎨 A creative soul who enjoys blending technical skills with design thinking.
-- 🌏 Always looking for ways to connect and collaborate in the tech community.
+- 👩‍💻 Coding enthusiast with an **interest in backend development and system design.**
+- 🎨 A creative soul who enjoys **blending technical skills with design thinking.**
+- 🌏 Always looking for ways **to connect and collaborate in the tech community.**
 
 **📚 Always Learning:**
 
