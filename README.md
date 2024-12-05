@@ -22,6 +22,8 @@
 
 Hello there! 👋I’m passionate about **learning, building, and sharing**. Every project here reflects creativity and problem-solving. 🚀
 
+# 💫 About Me:
+
 **🔧 What You'll Find Here:**
 
 - 🚀 Innovative projects that solve **real-world problems**
