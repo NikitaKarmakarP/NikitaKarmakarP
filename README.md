@@ -24,20 +24,20 @@ Hello there! 👋I’m passionate about **learning, building, and sharing**. Eve
 
 **🔧 What You'll Find Here:**
 
-- 🚀 Innovative projects that solve real-world problems
-- 💡 Creative solutions blending logic and design
-- 🌍 Open-source contributions that foster collaboration
+- 🚀 Innovative projects that solve **real-world problems**
+- 💡 Creative solutions blending **logic and design**
+- 🌍 Open-source **contributions that foster collaboration**
 
 **💭 Why I Code:**
 
-✨ Turning ideas into reality, one line at a time
-🌱 Continuous learning and self-improvement
-🤝 Building solutions that make a difference
+- ✨ Turning ideas into reality, one line at a time
+- 🌱 Continuous learning and **self-improvement**
+- 🤝 Building solutions that make a difference
 
 **📚 Always Learning:**
 
-🔥 Exploring new technologies, frameworks, and concepts
-💬 Open to collaboration and feedback to grow together
+- 🔥 Exploring new **technologies, frameworks, and concepts**
+- 💬 Open to collaboration and feedback to grow together
 
 **Thank you for visiting! Feel free to explore, star ⭐, fork 🍴, or connect. Let’s innovate together! 🌈**
 
