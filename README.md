@@ -18,23 +18,28 @@
 </h1>
 <!--<h1 align="center">Hi 👋, I'm Nikita Karmakar</h1>-->
 
-🌟 Welcome to My GitHub! 🌟
+**🌟 Welcome to My GitHub! 🌟**
 Hello there! 👋
-I’m passionate about learning, building, and sharing. Every project here is a step toward exploring new possibilities, solving real-world problems, and creating meaningful impact. 🚀
+I’m passionate about **learning, building, and sharing**. Every project here reflects creativity and problem-solving. 🚀
 
-🔧 What You'll Find Here:
+**🔧 What You'll Find Here:**
 
-Innovative code solutions 💡
-Projects that merge creativity with logic 🌈
-Contributions to open-source communities 🌍
-💭 Why I Code:
-Coding for me is more than just writing lines of code—it's about creating, learning, and growing. It's the art of turning ideas into reality and making a difference, one commit at a time.
+🚀 Innovative projects that solve real-world problems
+💡 Creative solutions blending logic and design
+🌍 Open-source contributions that foster collaboration
 
-📚 Always Learning:
-Whether it’s a new language, framework, or concept, I’m always on a journey to improve and grow. Collaboration and feedback are the keys to success! 🤝
+**💭 Why I Code:**
 
-✨ Thank you for visiting my GitHub! Let’s innovate and inspire together. 💖
-Feel free to explore, star ⭐️, fork 🍴, and connect! 🌐
+✨ Turning ideas into reality, one line at a time
+🌱 Continuous learning and self-improvement
+🤝 Building solutions that make a difference
+
+**📚 Always Learning:**
+
+🔥 Exploring new technologies, frameworks, and concepts
+💬 Open to collaboration and feedback to grow together
+
+**Thank you for visiting! Feel free to explore, star ⭐, fork 🍴, or connect. Let’s innovate together! 🌈**
 
 <img src="https://img1.picmix.com/output/stamp/normal/7/9/9/5/2335997_2f709.gif" align="right" alt="">
 
