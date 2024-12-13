@@ -103,10 +103,7 @@ Hello there! 👋I’m passionate about **learning, building, and sharing**. Eve
 
 </div>
 <br/>
-## 
-![NikitaKarmakarP activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NikitaKarmakarP&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NikitaKarmakarP&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![NikitaKarmakarP activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NikitaKarmakarP&theme=dark)
 
 <br/><br/>
