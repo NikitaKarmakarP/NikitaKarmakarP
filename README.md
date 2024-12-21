@@ -6,6 +6,7 @@
   <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="jyot" height="200" width="200" /></a>
+   <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="200" /></a>
 </p>
 <p align="center">
   
