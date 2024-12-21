@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Hi+I'm+Nikita+Karmakar!;Software+Developer+%F0%9F%92%BB;Open+to+collaborations+%F0%9F%8E%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Hi+I'm+Nikita+Karmakar!;Software+Developer+%F0%9F%92%BB;Building+solutions+%F0%9F%9A%80;Open+to+collaborations+%F0%9F%8E%8F">
 </div>
 
 
