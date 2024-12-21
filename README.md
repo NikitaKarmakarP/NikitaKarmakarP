@@ -19,7 +19,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&pause=1000&color=1B25F7&width=435&lines=Hi👋+Myself+NikitaKarmakar+From+India;A+passionate+Software+Developer+From+India;I+create+user-friendly+applications+%F0%9F%8E%AF;Open+to+collaborations+and+projects">
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&pause=1000&color=1B25F7&width=435&lines=Hi👋+Myself+NikitaKarmakar+From+India;A+passionate+Software+Developer;I+create+user-friendly+applications+%F0%9F%8E%AF;Open+to+collaborations+and+projects">
 </div>
 
 
