@@ -16,9 +16,8 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F726&width=435&lines=Hello+world%F0%9F%91%8B%2C+I'm+Nikita+Karmakar!;A+passionate+Software+Developer+%F0%9F%92%BB;I+create+user-friendly+applications+%F0%9F%8E%AF;Open+to+collaborations+and+projects+%F0%9F%92%A1">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Hello+world%F0%9F%91%8B%2C+I'm+Nikita+Karmakar!;A+passionate+Software+Developer+%F0%9F%92%BB;I+build+innovative+and+user-friendly+applications+%F0%9F%8E%AF;Always+open+to+collaborations+and+exciting+projects+%F0%9F%92%A1">
 </div>
-
 
 
 **🌟 Welcome to My GitHub! 🌟**
