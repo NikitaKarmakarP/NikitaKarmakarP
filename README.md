@@ -15,7 +15,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&pause=1000&color=1B25F7&width=435&lines=Hi👋+there+I'm+Nikita+Karmakar;I’m +passionate+about+building scalable+systems⚙️;I+create+user-friendly+💻applications+%F0%9F%8E%AF;Open+to+collaborations+and+projects💻">
+<img src="https://readme-typing-svg.herokuapp.comfont=Arial+Black&pause=1000&color=1B25F7&width=435&lines=Hi+there+I'm+Nikita+Karmakar;A+passionate+Software+Developer👩‍💻;I’m +passionate+about+building+scalable+systems⚙️;I+create+user-friendly+💻applications+%F0%9F%8E%AF;Open+to+collaborations+and+projects💻">
 </div>
 
 
