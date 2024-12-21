@@ -14,8 +14,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Hello+world+%F0%9F%91%8B%2C+I'm+Nikita+Karmakar!;A+creative+and+dedicated+Software+Developer;Building+innovative+solutions;Excited+for+collaborations+and+new+projects">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Hello+world+%F0%9F%91%8B%2C+I'm+Nikita+Karmakar!;A+creative+dedicated+Software+Developer+%F0%9F%93%99;Building+innovative+solutions+%F0%9F%9A%80;Excited+for+collaborations+and+new+projects+%F0%9F%8E%8F">
 </div>
+
 
 
 **🌟 Welcome to My GitHub! 🌟**
