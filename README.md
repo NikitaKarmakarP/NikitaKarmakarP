@@ -15,14 +15,9 @@
 
 
 <!-- Typing Animation -->
-<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1B25F7&width=435&lines=Hello+world%F0%9F%91%8B%2C+I'm+Nikita+Karmakar!;
-  A+passionate+Software+Developer👩‍💻;I+create+user-friendly+applications+%F0%9F%8E%AF;Open+to+collaborations+and+projects+%F0%9F%92%A1">
+  <img src="https://readme-typingsvg.herokuapp.com?font=Arial+Black&pause=1000&color=1B25F7&width=435&lines=Hi+there+I'm+Nikita+Karmakar;A+passionate+Software+Developer👩‍💻;I+create+user-friendly+💻applications+%F0%9F%8E%AF;Open+to+collaborations+and+projects💻">
 </div>
-
-
-
 
 **🌟 Welcome to My GitHub! 🌟**
 
