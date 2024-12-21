@@ -58,17 +58,13 @@ Hello there! 👋I’m passionate about **learning, building, and sharing**. Eve
 **🧑‍💻 Learning**
 
 - 🌱 I’m currently learning **DSA, Python, React JS, java, Computer fundamental**
-
 - 💬 Ask me about **Node js, Django**
 
 **⚡Work**
 
 - 🚀Inovation **Exiting to Inovating new things**
-
 - 💻Web projects **creating new web applications and Projectes**
-
 - 🔥 Exploring new **technologies, frameworks, and concepts**
-- 
 - 💬 Open to collaboration and feedback to grow together
 
 **✉️ Contact**
