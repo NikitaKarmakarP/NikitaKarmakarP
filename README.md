@@ -16,7 +16,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&pause=1000&color=1B25F7&width=435&lines=Hi👋+Myself+NikitaKarmakar+From+India"/>
 </h1>
-<!--<h1 align="center">Hi 👋, I'm Nikita Karmakar</h1>-->
+
 
 **🌟 Welcome to My GitHub! 🌟**
 
