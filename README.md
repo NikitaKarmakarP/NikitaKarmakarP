@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NikitaKarmakarP&label=Profile%20views&color=0e75b6&style=flat" alt="NikitaKarmakarP" /> </p>
 <h2 align="center">My Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
@@ -27,8 +28,6 @@
 # 💫 About Me:
 
 Hello there! 👋I’m passionate about **learning, building, and sharing**. Every project here reflects creativity and problem-solving. 🚀
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NikitaKarmakarP&label=Profile%20views&color=0e75b6&style=flat" alt="NikitaKarmakarP" /> </p>
 
 **🔧 What You'll Find Here:**
 
