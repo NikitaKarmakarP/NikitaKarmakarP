@@ -28,6 +28,8 @@
 
 Hello there! 👋I’m passionate about **learning, building, and sharing**. Every project here reflects creativity and problem-solving. 🚀
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NikitaKarmakarP&label=Profile%20views&color=0e75b6&style=flat" alt="NikitaKarmakarP" /> </p>
+
 **🔧 What You'll Find Here:**
 
 - 🚀 Innovative projects that solve **real-world problems**
