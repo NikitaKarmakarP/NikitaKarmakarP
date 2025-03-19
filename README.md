@@ -1,14 +1,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NikitaKarmakarP&label=Profile%20views&color=0e75b6&style=flat" alt="NikitaKarmakarP" /> </p>
 <h2 align="center">🏆My Leetcode Info🏆<h2>  
 <p align="center">
+
+  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="jyot" height="200" width="200" /></a>
    <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/nikitakarmakar2004/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="200" /></a>
 </p>
 <p align="center">
   
