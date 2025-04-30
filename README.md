@@ -93,8 +93,8 @@ Hello there! 👋I’m passionate about **learning, building, and sharing**. Eve
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/>
   </a>
   <!-- MediaPipe -->
-  <a href="https://www.google.com/imgres?q=mediapipe%20smbol&imgurl=https%3A%2F%2Fviz.mediapipe.dev%2Flogo.png&imgrefurl=https%3A%2F%2Fviz.mediapipe.dev%2Fdemo%2Fhand_tracking&docid=XeutvjC7Y6yiQM&tbnid=oOAAPFI37r0dVM&vet=12ahUKEwiV2aW0zf-MAxXvSmwGHU4aI8kQM3oECGYQAA..i&w=240&h=240&hcb=2&ved=2ahUKEwiV2aW0zf-MAxXvSmwGHU4aI8kQM3oECGYQAA" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/50221869?s=200&v=4" alt="mediapipe" width="40" height="40"/>
+  <a href="https://mediapipe.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mediapipe.svg" alt="MediaPipe" width="40" height="40"/>
   </a>
   <!-- PyAutoGUI (no official logo, using Python icon again or emoji alternative) -->
   <a href="https://pyautogui.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
